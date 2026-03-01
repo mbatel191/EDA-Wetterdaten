@@ -24,3 +24,6 @@ Ziel war es auch, praktische Erfahrungen mit Python und Datenanalyse zu sammeln.
 - 'analysis/' – Jupyter Notebook mit Analyse
 - 'figures/' – Alle Plots als PNG
 - 'outputs/' – PDF-Version des Notebooks
+
+Die Dokumentation ist bewusst auf Deutsch verfasst. Der Code folgt den üblichen englischen Programmierkonventionen.
+Zudem wurde der Code mit Hilfe von ChatGPT erstellt.
