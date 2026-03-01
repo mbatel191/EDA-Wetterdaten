@@ -20,10 +20,13 @@ Ziel war es auch, praktische Erfahrungen mit Python und Datenanalyse zu sammeln.
 - Dieser Datensatz enthält Temperaturmessungen von 55 Wetterstationen in Deutschland in 10-Minuten-Abständen.
 
 ## Ordnerstruktur
-- 'data/' – Erfordert den Originaldatensatz (https://www.kaggle.com/datasets/alioraji/weather-data-nov-2015)
+- 'data/' – Erfordert den Originaldatensatz 
 - 'analysis/' – Jupyter Notebook mit Analyse
 - 'figures/' – Alle Plots als PNG
 - 'outputs/' – PDF-Version des Notebooks
 
+Der originale Datensatz ist nicht im Repository enthalten. 
+Er kann hier heruntergeladen werden: https://www.kaggle.com/datasets/alioraji/weather-data-nov-2015
+Nach dem Herunterladen legen Sie ihn bitte in den Ordner 'data/'.
 Die Dokumentation ist bewusst auf Deutsch verfasst. Der Code folgt den üblichen englischen Programmierkonventionen.
 Zudem wurde der Code mit Hilfe von ChatGPT erstellt.
